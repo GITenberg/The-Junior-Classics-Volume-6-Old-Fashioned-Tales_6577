@@ -1,0 +1,24 @@
+_repo: The-Junior-Classics-Volume-6-Old-Fashioned-Tales_6577
+contributor:
+  creator:
+    editor:
+      agent_name: Patten, William
+      birthdate: 1868
+      deathdate: 1936
+      gutenberg_agent_id: '1118'
+      url: http://www.gutenberg.org/2009/agents/1118
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6577'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s literature'
+- !lcc 'PZ'
+title: 'The Junior Classics — Volume 6: Old-Fashioned Tales'
+url: http://www.gutenberg.org/ebooks/6577
